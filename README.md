@@ -9,6 +9,6 @@ Pip, lxml, Requests, CSV
 
 # Usage:
 In Terminal navigate to script path and type:
->python aliexpresscraper.py
+>python aliexpresscrape.py
 Then type out the path to your file
 >Path to File:/path/to/your/url/file
